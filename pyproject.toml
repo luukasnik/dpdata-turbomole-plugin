@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=45"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dpdata_turbomole"
+version = "0.0.0"
+description = "dpdata turbomole plugin"
+dependencies = [
+    'numpy',
+    'dpdata',
+]
+readme = "README.md"
+
+[project.entry-points.'dpdata.plugins']
+turbomole = "dpdata_turbomole:TurbomoleFormat"

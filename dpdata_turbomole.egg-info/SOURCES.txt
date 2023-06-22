@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+dpdata_turbomole/__init__.py
+dpdata_turbomole/periodic_table.py
+dpdata_turbomole/turbomole_data.py
+dpdata_turbomole/unit.py
+dpdata_turbomole.egg-info/PKG-INFO
+dpdata_turbomole.egg-info/SOURCES.txt
+dpdata_turbomole.egg-info/dependency_links.txt
+dpdata_turbomole.egg-info/entry_points.txt
+dpdata_turbomole.egg-info/requires.txt
+dpdata_turbomole.egg-info/top_level.txt

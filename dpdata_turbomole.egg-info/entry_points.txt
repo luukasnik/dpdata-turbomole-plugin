@@ -1,0 +1,2 @@
+[dpdata.plugins]
+turbomole = dpdata_turbomole:TurbomoleFormat
